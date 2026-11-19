@@ -1,0 +1,12 @@
+id,date,kind,category,amount,currency
+T001,2026-09-04,expense,food,18.50,EUR
+T002,2026-09-05,income,salary,2500.00,EUR
+T003,2026-09-06,expense,food,-5.00,EUR
+T004,2026-09-07,expense,snacks,9.00,EUR
+T005,2026-13-01,expense,rent,900.00,EUR
+T006,2026-09-08,transfer,food,20.00,EUR
+T007,2026-09-08,expense,utilities,0,EUR
+T008,2026-09-09,expense,health,45.00,eur
+T009,2026-09-10,income,freelance,300.00,EUR
+T010,2026-09-11,expense,transport,2.40,EUR
+T011,2026-09-12,expense,rent,950.00,EUR
